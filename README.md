@@ -79,7 +79,3 @@ Analysis of the Toronto Raptors' performance trajectory from their 2019 NBA Cham
 
 ---
 
-## Author
-
-**Michael Kong**  
-Data Analyst | SQL | Python | Power BI  
