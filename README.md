@@ -40,18 +40,3 @@ This project analyzes the Toronto Raptors' trajectory from their 2019 NBA Champi
 - **DefRtg deteriorated from 107.1 (2018–19) to 118.8 (2023–24)** — directly corresponding to the 33-win drop over the same period
 
 ---
-
-## 📂 Project Structure
-```text
-raptors_project/
-├── data/
-│   └── raptors.xlsx
-├── notebook/
-│   └── raptors_project.ipynb
-├── dashboard/
-│   └── raptors_dashboard.pbix
-└── README.md
-```
-
----
-
