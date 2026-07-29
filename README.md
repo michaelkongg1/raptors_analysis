@@ -8,8 +8,7 @@ This project analyzes the Toronto Raptors' trajectory from their 2019 NBA Champi
 
 ---
 
-**Note:** This project was revised to include a proper star-schema data model 
-and DAX measures, replacing an earlier version built on a single flat table.
+**Note:** This project was revised to include a proper star-schema data model ,the flat source tables were restructured into a star schema (dim_team/fact_team_season, dim_players/fact_players) with defined relationships
 
 --- 
 
